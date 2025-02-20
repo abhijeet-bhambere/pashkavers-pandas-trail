@@ -1,5 +1,5 @@
 # pashkavers-pandas-trail
-###I created this repo to track the progress on a udemy course for pandas. Intent is regular update to create a solid understanding of the basics.
+### I created this repo to track the progress on a udemy course for pandas. Intent is regular update to create a solid understanding of the basics.
 ### 🚧 More real-world application will follw this repo as part of further learning.
 - ✅ Covering basics of loading a dataset into pandas, mostly csv files with the <code>read_csv</code> method.
 - ✅ Various ways to handle
