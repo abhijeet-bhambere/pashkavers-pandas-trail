@@ -1,5 +1,6 @@
 # pashkavers-pandas-trail
-### I created this repo to track the progress on a udemy course for pandas. Intent is to keep it updated regularly as I create a solid understanding of the basics of exploratory data analysis in pandas.
+### I created this repo to track the progress on a udemy course for pandas.<br>
+#### Intent is to keep it updated regularly as I build up solid understanding of the basics of exploratory data analysis using pandas & other relevant libraries.
 
 #### ✅ Topics covered so far
 - Covering basics of loading a dataset into pandas, mostly csv files with the <code>read_csv</code> method.
@@ -18,4 +19,4 @@
 - Data visualizations
 - Additional options & setting in pandas
 
-### 🚧 Further projects that reflect more real-world application will follow in this or separate repo as part of further learning.
+### 🚧 Projects that reflect more real-world applications & overall end-to-end processes will follow this as part of further learning.
