@@ -8,11 +8,11 @@
   - NaN/missing values
   - change of column dtypes
 - Basic ways to filter data from Dataframes based on conditions & best ways to optimize them in a filetring query
-
-### ⭕ Coming up next:
 - Modifying a DataFrames -- either entire column or row or a specific value.
 - Various string methods 
 - Multi-indexing
+  
+### ⭕ Coming up next:
 - Groupby, Merging, Aggregating
 - Wrking with Dates & Times
 - Exporting results
