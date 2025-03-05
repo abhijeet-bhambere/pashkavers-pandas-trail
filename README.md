@@ -11,10 +11,10 @@
 - Modifying a DataFrames -- either entire column or row or a specific value.
 - Various string methods 
 - Multi-indexing
+- Groupby, Merging, Aggregating
   
 ### ⭕ Coming up next:
-- Groupby, Merging, Aggregating
-- Wrking with Dates & Times
+- Woking with Dates & Times
 - Exporting results
 - Data visualizations
 - Additional options & setting in pandas
