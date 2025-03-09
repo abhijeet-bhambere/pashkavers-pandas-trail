@@ -12,10 +12,10 @@
 - Various string methods 
 - Multi-indexing
 - Groupby, Merging, Aggregating
-  
-### ⭕ Coming up next:
 - Woking with Dates & Times
 - Exporting results
+
+### ⭕ Coming up next:
 - Data visualizations
 - Additional options & setting in pandas
 
