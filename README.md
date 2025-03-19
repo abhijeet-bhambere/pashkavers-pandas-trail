@@ -14,9 +14,8 @@
 - Groupby, Merging, Aggregating
 - Woking with Dates & Times
 - Exporting results
-
-### ⭕ Coming up next:
 - Data visualizations
 - Additional options & setting in pandas
-
+### ⭕ Coming up next:
+- Moving over to data visualization projects in this <a href=https://github.com/abhijeet-bhambere/python-data-visualizatn>**repo**</a>
 ### 🚧 Projects that reflect more real-world applications & overall end-to-end processes will follow this as part of further learning.
